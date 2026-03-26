@@ -25,6 +25,31 @@ De meeste AI-skills geven je een snel antwoord op basis van een generiek templat
 
 **Nederlandse context.** Poldermodel, LinkedIn NL, BTW, MKB vs enterprise, nuchterheid. Context die je niet krijgt van een Engelstalige skill.
 
+## Welke skill gebruik je wanneer?
+
+Niet zeker waar je moet beginnen? Dit helpt.
+
+**Je hebt een idee en wilt weten of het wat is.**
+Start met `aannames-bedenken`. Kijk welke aannames er onder je idee zitten. Ga dan naar `experiment-ontwerp` om de riskantste aanname te testen.
+
+**Je weet niet precies voor wie je bouwt.**
+Begin bij `doelgroepkeuze-primair`. Scoor je segmenten op pijn, betalingsbereidheid en winbaarheid. Gebruik dan `klantinterview` om te checken of je gelijk hebt.
+
+**Je moet je strategie op papier krijgen.**
+`product-strategie` geeft je het volledige canvas. Wil je scherper op positionering? `positionering`. Op verdedigbaarheid? `concurrentie-analyse`.
+
+**Je gaat een klantgesprek voeren.**
+`klantinterview`. Geeft je een script op basis van The Mom Test en FORCES. Zodat je de juiste vragen stelt in plaats van de vragen die je wilt horen.
+
+**Je moet een feature specificeren voor je team.**
+`prd-schrijven`. Acht secties, met producthypothese en aannames. Geen vage beschrijving maar een scherp document.
+
+**Je lanceert iets.**
+`go-to-market` voor het lanceringsplan. `waardepropositie` als je nog scherper wilt formuleren wat je belooft.
+
+**Je wilt weten wat er mis kan gaan.**
+`pre-mortem`. Bedenk voor de lancering wat mislukt en waarom. Tigers, Paper Tigers en Elephants. Zodat je weet wat je echt moet fixen en wat je kunt laten liggen.
+
 ## Skills
 
 ### Strategie
@@ -63,6 +88,16 @@ De meeste AI-skills geven je een snel antwoord op basis van een generiek templat
 |---|---|
 | `swot-analyse` | Gerichte vragen, cross-referentie matrix, Seven Powers lens |
 
+## Zo werkt het
+
+Elke skill is een `SKILL.md` bestand. Een markdown-document met instructies die je AI-assistent automatisch volgt wanneer relevant.
+
+Je vraagt om een productstrategie en de `product-strategie` skill wordt geladen. Je wilt een klantinterview voorbereiden en de `klantinterview` skill wordt geactiveerd. Zo simpel is het.
+
+Het verschil met een gewone prompt: de skill vraagt door. Je krijgt geen standaardantwoord maar een gesprek. De skill stelt gerichte vragen over jouw situatie, jouw klant, jouw markt. Pas als het genoeg context heeft, komt het resultaat.
+
+Skills staan los van elkaar. Geen afhankelijkheden. Je kunt ze individueel gebruiken.
+
 ## Installatie
 
 ### Claude Code (plugin marketplace)
@@ -82,14 +117,6 @@ Upload individuele `SKILL.md` bestanden als custom skills via de instellingen.
 ### Cursor / Copilot / andere AI-assistenten
 
 Kopieer de `skills/` map naar je project of global skills directory. De `SKILL.md` bestanden volgen de Agent Skills open standaard en werken cross-platform.
-
-## Hoe het werkt
-
-Elke skill is een `SKILL.md` bestand. Een markdown-document met instructies die je AI-assistent automatisch volgt wanneer relevant.
-
-Vraag om een productstrategie en de `product-strategie` skill wordt geladen. Vraag om een klantinterview voor te bereiden en de `klantinterview` skill wordt geactiveerd. Zo simpel is het.
-
-Skills staan los van elkaar. Geen onderlinge afhankelijkheden. Je kunt ze individueel gebruiken.
 
 ## Frameworks en bronnen
 
