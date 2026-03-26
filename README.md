@@ -1,58 +1,57 @@
 # 🇳🇱 NL Product Skills
 
-**Nederlandstalige product management skills voor AI-assistenten.**
+Nederlandstalige product management skills voor AI-assistenten. Kwalitatief, praktisch, en lekker in het Nederlands.
 
-Gebouwd door een Product Manager, voor product managers, consultants en ondernemers die in het Nederlands werken.
+## Over mij
 
----
+Ik ben Stefan Wesemann, product consultant. 10+ jaar productervaring bij o.a. Coolblue, Essent en Postcodeloterij. PSPO III gecertificeerd, MIT "Designing and Building AI Products", Product Faculty "AI Product Strategy". Ik gebruik AI dagelijks in mijn werk en deel wat ik leer.
+
+- [LinkedIn](https://linkedin.com/in/stefanwesemann)
+- [Afkijken (Substack)](https://afkijken.substack.com)
 
 ## Waarom dit bestaat
 
-Er zijn honderden Engelstalige PM-skills. Geen enkele is in het Nederlands. Dat is een probleem als je:
+Ik wil mensen helpen beter productwerk te doen. Met AI. In het Nederlands.
 
-- Nederlandse klanten bedient en deliverables in het Nederlands schrijft
-- Stakeholders hebt die geen Engels willen lezen
-- Werkt in een Nederlandse marktcontext met eigen dynamiek
-- AI wilt inzetten maar niet elke output handmatig wilt vertalen
+Deze skills zijn gebouwd vanuit best practices die ik heb opgedaan via MIT, Product Faculty, PSPO III, jarenlange praktijkervaring en bewezen methodieken. Het zijn geen vertalingen van Engelstalige skills. Ze zijn geschreven met de Nederlandse context in gedachten, met eigen voorbeelden, en met focus op kwaliteit en diepgang.
 
-Deze skills zijn **geen vertalingen**. Ze zijn geschreven voor de Nederlandse markt, met Nederlandse voorbeelden, en bevatten eigen frameworks naast bewezen methodieken.
+## Wat deze skills anders maakt
 
-## Wat maakt deze skills anders
+De meeste AI-skills geven je een snel antwoord op basis van een generiek template. Deze niet.
 
-- **Diepgang boven snelheid** — elke skill stelt eerst vragen, vraagt door, en accepteert geen oppervlakkige antwoorden
-- **FORCES Framework** — het 6-krachtenmodel (Motivatie, Enablement, Momentum vs Wrijving, Angst, Inertie) loopt door meerdere skills heen
-- **Seven Powers** — Hamilton Helmers verdedigbaarheidsmodel als standaard lens bij strategie
-- **Blue Ocean Strategy** — ERRC Grid en Six Paths als positioneringsframework
-- **Nederlandse context** — poldermodel, LinkedIn NL, BTW, MKB vs enterprise, nuchterheid
+**Diepgang boven snelheid.** Elke skill stelt eerst vragen. Vraagt door. Accepteert geen oppervlakkige antwoorden. Het resultaat is beter omdat het proces beter is.
+
+**Bewezen frameworks.** FORCES voor gedragsverandering. Seven Powers voor verdedigbaarheid. Blue Ocean voor positionering. The Mom Test voor klantinterviews. Niet omdat het fancy klinkt, maar omdat het werkt.
+
+**Nederlandse context.** Poldermodel, LinkedIn NL, BTW, MKB vs enterprise, nuchterheid. Context die je niet krijgt van een Engelstalige skill.
 
 ## Skills
 
 ### Strategie
 
-| Skill | Beschrijving |
-|-------|--------------|
+| Skill | Wat het doet |
+|---|---|
 | `product-strategie` | Product Strategy Canvas (9 secties), Seven Powers, Moat Statement |
 | `waardepropositie` | JTBD + FORCES Framework (6 krachten), Leverage Statement |
 | `positionering` | Blue Ocean (ERRC Grid, Six Paths), Counter Positioning |
 | `north-star-metric` | North Star Metric, sub-metrics, KPI-boom |
 | `concurrentie-analyse` | 3 concurrenten diep, moat-analyse, relatieve positie |
 | `prijsstrategie` | Modelkeuze, Van Westendorp, AI-kostenmodel (conditioneel) |
-| `product-visie` | Korte, begrijpbare productvisie — intern gericht |
+| `product-visie` | Korte, begrijpbare productvisie. Intern gericht |
 
 ### Discovery
 
-| Skill | Beschrijving |
-|-------|--------------|
+| Skill | Wat het doet |
+|---|---|
 | `klantinterview` | The Mom Test + FORCES als doorvraag-lens |
 | `aannames-bedenken` | Twee paden (nieuw/bestaand), multi-perspectief, Leverage hypotheses |
 | `experiment-ontwerp` | Pretotyping & A/B tests, YODA principle, success thresholds |
 | `doelgroepkeuze-primair` | 4 criteria, smallest viable audience, gedragssegmentatie |
-| `discovery-plan` | *In ontwikkeling* |
 
 ### Executie
 
-| Skill | Beschrijving |
-|-------|--------------|
+| Skill | Wat het doet |
+|---|---|
 | `prd-schrijven` | 8-sectie PRD, producthypothese, aannames, AI-checklist (conditioneel) |
 | `stakeholder-map` | Mapping + prioritering, Power × Interest grid |
 | `pre-mortem` | Tigers / Paper Tigers / Elephants, risico-triage |
@@ -60,14 +59,14 @@ Deze skills zijn **geen vertalingen**. Ze zijn geschreven voor de Nederlandse ma
 
 ### Analyse
 
-| Skill | Beschrijving |
-|-------|--------------|
+| Skill | Wat het doet |
+|---|---|
 | `swot-analyse` | Gerichte vragen, cross-referentie matrix, Seven Powers lens |
-| `ai-evals` | Evaluatiecriteria voor AI-output vanuit business-perspectief |
 
 ## Installatie
 
 ### Claude Code (plugin marketplace)
+
 ```bash
 # Voeg de marketplace toe
 claude plugin marketplace add SedanWeerman/nl-product-skills
@@ -77,20 +76,24 @@ claude plugin install nl-product-skills
 ```
 
 ### Claude Cowork / Claude.ai
+
 Upload individuele `SKILL.md` bestanden als custom skills via de instellingen.
 
 ### Cursor / Copilot / andere AI-assistenten
-Kopieer de `skills/` map naar je project of global skills directory. De `SKILL.md` bestanden volgen de [Agent Skills open standaard](https://agentskills.io/) en werken cross-platform.
+
+Kopieer de `skills/` map naar je project of global skills directory. De `SKILL.md` bestanden volgen de Agent Skills open standaard en werken cross-platform.
 
 ## Hoe het werkt
 
-Elke skill is een `SKILL.md` bestand — een markdown-document met instructies die je AI-assistent automatisch volgt wanneer relevant. Vraag om een productstrategie, en de `product-strategie` skill wordt geladen. Vraag om een klantinterview voor te bereiden, en de `klantinterview` skill wordt geactiveerd.
+Elke skill is een `SKILL.md` bestand. Een markdown-document met instructies die je AI-assistent automatisch volgt wanneer relevant.
 
-Skills staan los van elkaar — geen onderlinge afhankelijkheden. Je kunt ze individueel gebruiken.
+Vraag om een productstrategie en de `product-strategie` skill wordt geladen. Vraag om een klantinterview voor te bereiden en de `klantinterview` skill wordt geactiveerd. Zo simpel is het.
 
-## Frameworks & Bronnen
+Skills staan los van elkaar. Geen onderlinge afhankelijkheden. Je kunt ze individueel gebruiken.
 
-Deze skills bouwen voort op bewezen methodieken:
+## Frameworks en bronnen
+
+Deze skills bouwen o.a. voort op:
 
 - **FORCES Framework** (Product Faculty) — 6-krachtenmodel voor gedragsverandering
 - **Seven Powers** (Hamilton Helmer) — verdedigbare concurrentievoordelen
@@ -99,19 +102,12 @@ Deze skills bouwen voort op bewezen methodieken:
 - **JTBD** (Clayton Christensen) — waardepropositie vanuit klantperspectief
 - **StoryBrand** (Donald Miller) — messaging framework
 - **Contagious STEPPS** (Jonah Berger) — viraliteitsprincipes
-- **AI Product Design** (MIT xPRO) — UX-principes voor AI-producten
 - **Leverage Discovery** (Product Faculty) — iteratief strategisch inzicht
-
-## Over de maker
-
-**Stefan Wesemann** — Product Consultant & AI-strateeg. PSPO III gecertificeerd, MIT "Designing and Building AI Products", Product Faculty "AI Product Strategy". Werkt als freelance Product Manager voor Nederlandse opdrachtgevers vanuit WMNN Outcomes BV.
-
-- [LinkedIn](https://linkedin.com/in/stefanwesemann)
-- [GitHub](https://github.com/SedanWeerman)
+- **AI Product Design** (MIT xPRO) — UX-principes voor AI-producten
 
 ## Licentie
 
-Apache 2.0 — vrij te gebruiken, ook commercieel. Zie [LICENSE](LICENSE).
+Apache 2.0. Vrij te gebruiken, ook commercieel. Zie [LICENSE](LICENSE).
 
 ## Bijdragen
 
