@@ -1,54 +1,42 @@
 # 🇳🇱 NL Product Skills
 
-Nederlandstalige product management skills voor AI-assistenten. Kwalitatief, praktisch, en lekker in het Nederlands.
+Eigenlijk liep ik er steeds tegenaan. Ik vroeg AI om hulp bij productwerk en kreeg antwoorden die... oké waren. Generiek. Een beetje alsof je een stagiair vraagt om een concurrentieanalyse en je krijgt een samenvatting van de Wikipedia-pagina terug. Niet fout, maar ook niet bruikbaar.
+
+Dus heb ik frameworks die ik jarenlang heb gebruikt (FORCES, Blue Ocean, The Mom Test) vastgelegd op een manier die AI begrijpt. Nederlandstalig, met Nederlandse context, geen vertalingen van Engelstalige templates. Het resultaat: een AI-assistent die doorvraagt in plaats van een generiek lijstje teruggeeft.
 
 ## Over mij
 
-Ik ben Stefan Wesemann, product consultant. 10+ jaar productervaring bij o.a. Coolblue, Essent en Postcodeloterij. PSPO III gecertificeerd, MIT "Designing and Building AI Products", Product Faculty "AI Product Strategy". Ik gebruik AI dagelijks in mijn werk en deel wat ik leer.
+Stefan Wesemann. 10+ jaar productervaring bij onder andere Coolblue, Essent en Postcodeloterij. PSPO III gecertificeerd, MIT "Designing and Building AI Products", Product Faculty "AI Product Strategy". Ik gebruik AI dagelijks in mijn werk en deel wat ik leer.
 
-- [LinkedIn](https://linkedin.com/in/stefanwesemann)
-- [Afkijken (Substack)](https://afkijken.substack.com)
+[LinkedIn](https://linkedin.com/in/stefanwesemann) · [Afkijken (Substack)](https://afkijken.substack.com)
 
-## Waarom dit bestaat
+## Wat dit anders maakt
 
-Ik wil mensen helpen beter productwerk te doen. Met AI. In het Nederlands.
+De meeste AI-skills geven je een snel antwoord. Je stelt een vraag, je krijgt een lijstje. Klaar.
 
-Deze skills zijn gebouwd vanuit best practices die ik heb opgedaan via MIT, Product Faculty, PSPO III, jarenlange praktijkervaring en bewezen methodieken. Het zijn geen vertalingen van Engelstalige skills. Ze zijn geschreven met de Nederlandse context in gedachten, met eigen voorbeelden, en met focus op kwaliteit en diepgang.
+Deze skills doen dat niet. Ze stellen eerst vragen. Over jouw situatie, jouw klant, jouw markt. Pas als er genoeg context is, komt het resultaat. Het duurt langer. Het resultaat is beter.
 
-## Wat deze skills anders maakt
+Een voorbeeld. Je vraagt de klantinterview skill om een interviewscript. In plaats van een standaardlijstje krijg je eerst vragen: wie is je doelgroep, in welke fase zit je, wat heb je al gehoord in eerdere gesprekken? Op basis daarvan krijg je een script met doorvraagtechnieken op basis van The Mom Test en FORCES. Zodat je de juiste vragen stelt in plaats van de vragen waarvan je hoopt dat het antwoord ja is.
 
-De meeste AI-skills geven je een snel antwoord op basis van een generiek template. Deze niet.
+Dat is het verschil. Proces over inhoud. De inhoud wordt beter omdat het proces beter is.
 
-**Diepgang boven snelheid.** Elke skill stelt eerst vragen. Vraagt door. Accepteert geen oppervlakkige antwoorden. Het resultaat is beter omdat het proces beter is.
+## Waar begin je?
 
-**Bewezen frameworks.** FORCES voor gedragsverandering. Seven Powers voor verdedigbaarheid. Blue Ocean voor positionering. The Mom Test voor klantinterviews. Niet omdat het fancy klinkt, maar omdat het werkt.
+Niet zeker welke skill je nodig hebt? Dit helpt.
 
-**Nederlandse context.** Poldermodel, LinkedIn NL, BTW, MKB vs enterprise, nuchterheid. Context die je niet krijgt van een Engelstalige skill.
+**Je hebt een idee en wilt weten of het wat is.** Start met `aannames-bedenken`. Kijk welke aannames er onder je idee zitten. Ga dan naar `experiment-ontwerp` om de riskantste aanname te testen.
 
-## Welke skill gebruik je wanneer?
+**Je weet niet precies voor wie je bouwt.** Begin bij `doelgroepkeuze-primair`. Scoor je segmenten op pijn, betalingsbereidheid en winbaarheid. Gebruik dan `klantinterview` om te checken of je gelijk hebt.
 
-Niet zeker waar je moet beginnen? Dit helpt.
+**Je moet je strategie op papier krijgen.** `product-strategie` geeft je het volledige canvas. Scherper op positionering? `positionering`. Op verdedigbaarheid? `concurrentie-analyse`.
 
-**Je hebt een idee en wilt weten of het wat is.**
-Start met `aannames-bedenken`. Kijk welke aannames er onder je idee zitten. Ga dan naar `experiment-ontwerp` om de riskantste aanname te testen.
+**Je gaat een klantgesprek voeren.** `klantinterview`. Zodat je de juiste vragen stelt in plaats van de vragen die je wilt horen.
 
-**Je weet niet precies voor wie je bouwt.**
-Begin bij `doelgroepkeuze-primair`. Scoor je segmenten op pijn, betalingsbereidheid en winbaarheid. Gebruik dan `klantinterview` om te checken of je gelijk hebt.
+**Je moet een feature specificeren voor je team.** `prd-schrijven`. Acht secties, met producthypothese en aannames. Geen vage beschrijving maar een scherp document.
 
-**Je moet je strategie op papier krijgen.**
-`product-strategie` geeft je het volledige canvas. Wil je scherper op positionering? `positionering`. Op verdedigbaarheid? `concurrentie-analyse`.
+**Je lanceert iets.** `go-to-market` voor het plan. `waardepropositie` als je nog scherper wilt formuleren wat je belooft.
 
-**Je gaat een klantgesprek voeren.**
-`klantinterview`. Geeft je een script op basis van The Mom Test en FORCES. Zodat je de juiste vragen stelt in plaats van de vragen die je wilt horen.
-
-**Je moet een feature specificeren voor je team.**
-`prd-schrijven`. Acht secties, met producthypothese en aannames. Geen vage beschrijving maar een scherp document.
-
-**Je lanceert iets.**
-`go-to-market` voor het lanceringsplan. `waardepropositie` als je nog scherper wilt formuleren wat je belooft.
-
-**Je wilt weten wat er mis kan gaan.**
-`pre-mortem`. Bedenk voor de lancering wat mislukt en waarom. Tigers, Paper Tigers en Elephants. Zodat je weet wat je echt moet fixen en wat je kunt laten liggen.
+**Je wilt weten wat er mis kan gaan.** `pre-mortem`. Bedenk voor de lancering wat mislukt en waarom. Tigers, Paper Tigers en Elephants. Zodat je weet wat je echt moet fixen en wat je kunt laten liggen.
 
 ## Skills
 
@@ -61,7 +49,7 @@ Begin bij `doelgroepkeuze-primair`. Scoor je segmenten op pijn, betalingsbereidh
 | `positionering` | Blue Ocean (ERRC Grid, Six Paths), Counter Positioning |
 | `north-star-metric` | North Star Metric, sub-metrics, KPI-boom |
 | `concurrentie-analyse` | 3 concurrenten diep, moat-analyse, relatieve positie |
-| `prijsstrategie` | Modelkeuze, Van Westendorp, AI-kostenmodel (conditioneel) |
+| `prijsstrategie` | Modelkeuze, Van Westendorp, AI-kostenmodel |
 | `product-visie` | Korte, begrijpbare productvisie. Intern gericht |
 
 ### Discovery
@@ -77,7 +65,7 @@ Begin bij `doelgroepkeuze-primair`. Scoor je segmenten op pijn, betalingsbereidh
 
 | Skill | Wat het doet |
 |---|---|
-| `prd-schrijven` | 8-sectie PRD, producthypothese, aannames, AI-checklist (conditioneel) |
+| `prd-schrijven` | 8-sectie PRD, producthypothese, aannames, AI-checklist |
 | `stakeholder-map` | Mapping + prioritering, Power × Interest grid |
 | `pre-mortem` | Tigers / Paper Tigers / Elephants, risico-triage |
 | `go-to-market` | FORCES per levenscyclusfase, StoryBrand messaging, STEPPS |
@@ -88,29 +76,20 @@ Begin bij `doelgroepkeuze-primair`. Scoor je segmenten op pijn, betalingsbereidh
 |---|---|
 | `swot-analyse` | Gerichte vragen, cross-referentie matrix, Seven Powers lens |
 
-## Zo werkt het
+## Hoe werkt het
 
-Elke skill is een `SKILL.md` bestand. Een markdown-document met instructies die je AI-assistent automatisch volgt wanneer relevant.
+Elke skill is een `SKILL.md` bestand. Dat is een document met instructies dat je AI-assistent automatisch oppikt en volgt wanneer het relevant is.
 
-Je vraagt om een productstrategie en de `product-strategie` skill wordt geladen. Je wilt een klantinterview voorbereiden en de `klantinterview` skill wordt geactiveerd. Zo simpel is het.
+Het verschil met een gewone prompt: een skill vraagt door. Je krijgt geen standaardantwoord maar een gesprek. De skill stelt gerichte vragen over jouw situatie, jouw klant, jouw markt. Pas als het genoeg context heeft, komt het resultaat. Dat is waarom het beter werkt dan "schrijf mij een productstrategie" in ChatGPT typen.
 
-Het verschil met een gewone prompt: de skill vraagt door. Je krijgt geen standaardantwoord maar een gesprek. De skill stelt gerichte vragen over jouw situatie, jouw klant, jouw markt. Pas als het genoeg context heeft, komt het resultaat.
-
-![Voorbeeld: de klantinterview skill in actie](assets/klantinterview-voorbeeld.png)
-
-*De klantinterview skill stelt gerichte vragen over je doelgroep, fase en eerdere gesprekken. Op basis daarvan krijg je een volledig interviewscript met doorvraagtechnieken.*
-
-Skills staan los van elkaar. Geen afhankelijkheden. Je kunt ze individueel gebruiken.
+Je vraagt om een productstrategie, de `product-strategie` skill wordt geladen. Je wilt een klantinterview voorbereiden, de `klantinterview` skill wordt geactiveerd. Skills staan los van elkaar. Geen afhankelijkheden. Je kunt ze individueel gebruiken.
 
 ## Installatie
 
-### Claude Code (plugin marketplace)
+### Claude Code
 
 ```bash
-# Voeg de marketplace toe
 claude plugin marketplace add SedanWeerman/nl-product-skills
-
-# Installeer alle skills
 claude plugin install nl-product-skills
 ```
 
@@ -120,25 +99,24 @@ Upload individuele `SKILL.md` bestanden als custom skills via de instellingen.
 
 ### Cursor / Copilot / andere AI-assistenten
 
-Kopieer de `skills/` map naar je project of global skills directory. De `SKILL.md` bestanden volgen de Agent Skills open standaard en werken cross-platform.
+Kopieer de `skills/` map naar je project of global skills directory. De bestanden volgen de Agent Skills open standaard en werken cross-platform.
 
 ## Frameworks en bronnen
 
-Deze skills bouwen o.a. voort op:
+Deze skills bouwen voort op:
 
-- **FORCES Framework** (Product Faculty) — 6-krachtenmodel voor gedragsverandering
-- **Seven Powers** (Hamilton Helmer) — verdedigbare concurrentievoordelen
-- **Blue Ocean Strategy** (Kim & Mauborgne) — ERRC Grid, Six Paths, Noncustomers
-- **The Mom Test** (Rob Fitzpatrick) — klantinterviews zonder bias
-- **JTBD** (Clayton Christensen) — waardepropositie vanuit klantperspectief
-- **StoryBrand** (Donald Miller) — messaging framework
-- **Contagious STEPPS** (Jonah Berger) — viraliteitsprincipes
-- **Leverage Discovery** (Product Faculty) — iteratief strategisch inzicht
-- **AI Product Design** (MIT xPRO) — UX-principes voor AI-producten
+- **FORCES Framework** (Product Faculty) voor gedragsverandering
+- **Seven Powers** (Hamilton Helmer) voor verdedigbare voordelen
+- **Blue Ocean Strategy** (Kim & Mauborgne) voor positionering
+- **The Mom Test** (Rob Fitzpatrick) voor klantinterviews zonder bias
+- **JTBD** (Clayton Christensen) voor waardepropositie vanuit klantperspectief
+- **StoryBrand** (Donald Miller) voor messaging
+- **Contagious STEPPS** (Jonah Berger) voor viraliteit
+- **AI Product Design** (MIT xPRO) voor UX-principes bij AI-producten
 
 ## Licentie
 
-Apache 2.0. Vrij te gebruiken, ook commercieel. Zie [LICENSE](LICENSE).
+Apache 2.0. Vrij te gebruiken, ook commercieel.
 
 ## Bijdragen
 
