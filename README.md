@@ -1,6 +1,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/Stefan-Wesemann/nl-product-skills?style=flat-square)](https://github.com/Stefan-Wesemann/nl-product-skills/stargazers)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue?style=flat-square)](LICENSE)
-[![Skills](https://img.shields.io/badge/skills-34-brightgreen?style=flat-square)](#skills)
+[![Skills](https://img.shields.io/badge/skills-35-brightgreen?style=flat-square)](#skills)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 [![Taal](https://img.shields.io/badge/taal-Nederlands-orange?style=flat-square)](#)
 
@@ -15,10 +15,9 @@ En daarom heb ik de meest bewezen frameworks die ik ook zelf al jarenlang gebrui
 
 ## Wat is er nieuw
 
-**v2.0 — maart 2026: 34 skills (was 18)**
+**v2.0 — maart 2026: 35 skills (was 18)**
 
-16 nieuwe skills toegevoegd: business model canvas, lean canvas, personas, OKR's, retro's, WSJF-prioritering, klantreis, outcome roadmap, ideaal klantprofiel, metrics dashboard, testscenario's, user stories, ideeën voor bestaand product, marketingideeën, verdienmodel en opportunity solution tree.
-
+18 nieuwe skills toegevoegd: business model canvas, lean canvas, personas, OKR's, retro's, WSJF-prioritering, klantreis, outcome roadmap, ideaal klantprofiel, metrics dashboard, testscenario's, user stories, ideeën voor bestaand product, marketingideeën, verdienmodel, opportunity solution tree, product leadership stances en onderhandelen.
 Elke skill wordt nog individueel verbeterd in komende updates.
 
 ## Over mij
@@ -44,7 +43,6 @@ Niet zeker welke skill je nodig hebt? Dit helpt.
 **Je hebt een idee en wilt weten of het wat is.** Start met `aannames-bedenken`. Kijk welke aannames er onder je idee zitten. Ga dan naar `experiment-ontwerp` om de riskantste aanname te testen.
 
 **Je weet niet precies voor wie je bouwt.** Begin bij `doelgroepkeuze-primair`. Scoor je segmenten op pijn, betalingsbereidheid en winbaarheid. Gebruik dan `klantinterview` om te checken of je gelijk hebt.
-
 **Je moet je strategie op papier krijgen.** `product-strategie` geeft je het volledige canvas. Scherper op positionering? `positionering`. Op verdedigbaarheid? `concurrentie-analyse`.
 
 **Je gaat een klantgesprek voeren.** `klantinterview`. Zodat je de juiste vragen stelt in plaats van de vragen die je wilt horen.
@@ -73,7 +71,6 @@ Niet zeker welke skill je nodig hebt? Dit helpt.
 | `verdienmodel` | 7 verdienmodellen, evaluatiematrix, validatie-experiment per model |
 | `business-model-canvas` | Osterwalder 9 bouwstenen, samenhang-check, canvas layout |
 | `lean-canvas` | Ash Maurya 9 blokken in voorgeschreven vulvolgorde, aanname-identificatie |
-
 ### Discovery
 
 | Skill | Wat het doet |
@@ -95,13 +92,13 @@ Niet zeker welke skill je nodig hebt? Dit helpt.
 | `stakeholder-map` | Mapping + prioritering, Power × Interest grid |
 | `pre-mortem` | Tigers / Paper Tigers / Elephants, risico-triage |
 | `go-to-market` | FORCES per levenscyclusfase, StoryBrand messaging, STEPPS |
+| `onderhandelen` | Tactical empathy, calibrated questions, Ackerman-model (Chris Voss) |
 | `user-stories` | 3 C's (Card, Conversation, Confirmation), INVEST-check, story splitting |
 | `testscenarios` | 4 categorieën (happy path, edge, error, boundary), Gegeven/Wanneer/Dan |
 | `okrs-formuleren` | Doerr-style OKR's, van bedrijfsdoel naar team key results, kwaliteitscheck |
 | `wsjf-prioritering` | WSJF-formule, 4 scoringsdimensies, team-scoring facilitatie |
 | `outcome-roadmap` | Now/Next/Later én kwartaalformaat, feature→outcome vertaling |
 | `ideeen-bestaand-product` | Multi-perspectief ideatie (PM/Designer/Engineer), probleem-eerst, scoringsmatrix |
-
 ### Analyse & Groei
 
 | Skill | Wat het doet |
@@ -115,8 +112,8 @@ Niet zeker welke skill je nodig hebt? Dit helpt.
 | Skill | Wat het doet |
 |---|---|
 | `retro` | 6 formats (Start/Stop/Continue, 4L's, Sailboat, etc.), auto-selectie, facilitatieplan |
+| `product-leadership-stances` | Diagnose misunderstood vs preferred stances (Lukassen & Schuurman), verschuivingsadvies |
 | `ai-evals` | AI-kwaliteit meten, evaluatie-frameworks |
-| `discovery-plan` | Gestructureerd discovery-plan opzetten |
 
 ## Hoe werkt het
 
@@ -125,7 +122,6 @@ Elke skill is een `SKILL.md` bestand. Dat is een document met instructies dat je
 Het verschil met een gewone prompt: een skill vraagt door. Je krijgt geen standaardantwoord maar een gesprek. De skill stelt gerichte vragen over jouw situatie, jouw klant, jouw markt. Pas als het genoeg context heeft, komt het resultaat. Dat is waarom het beter werkt dan "schrijf mij een productstrategie" in ChatGPT typen.
 
 Je vraagt om een productstrategie, de `product-strategie` skill wordt geladen. Je wilt een klantinterview voorbereiden, de `klantinterview` skill wordt geactiveerd. Skills staan los van elkaar. Geen afhankelijkheden. Je kunt ze individueel gebruiken.
-
 ## Installatie
 
 ### Claude Code
@@ -158,7 +154,8 @@ Deze skills bouwen voort op:
 - **Business Model Generation** (Osterwalder) voor business model canvas
 - **Running Lean** (Ash Maurya) voor lean canvas
 - **Continuous Discovery Habits** (Teresa Torres) voor opportunity solution tree
-- **Measure What Matters** (John Doerr) voor OKR's
+- **Measure What Matters** (John Doerr) voor OKR's- **Never Split the Difference** (Chris Voss) voor onderhandelingstechnieken
+- **Practical Product Management for Product Owners** (Chris Lukassen & Robbin Schuurman) voor product leadership stances
 
 ## Licentie
 
