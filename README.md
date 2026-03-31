@@ -6,9 +6,9 @@
 
 # 🇳🇱 NL Product Skills
 
-Eigenlijk liep ik er steeds tegenaan. Ik vroeg AI om hulp bij productwerk en kreeg antwoorden die... oké waren. Generiek. Een beetje alsof je een stagiair vraagt om een concurrentieanalyse en je krijgt een samenvatting van de Wikipedia-pagina terug. Niet fout, maar ook niet bruikbaar.
+Eigenlijk liep ik er steeds tegenaan. Ik vroeg AI om hulp bij productwerk en kreeg antwoorden die hmm... oké waren. Generiek. Een beetje alsof je een stagiair vraagt om een concurrentieanalyse en je krijgt een samenvatting van de Wikipedia-pagina terug. Niet per sé fout, maar ook niet echt bruikbaar.
 
-Dus heb ik frameworks die ik jarenlang heb gebruikt (FORCES, Blue Ocean, The Mom Test) vastgelegd op een manier die AI begrijpt. Nederlandstalig, met Nederlandse context, geen vertalingen van Engelstalige templates. Het resultaat: een AI-assistent die doorvraagt in plaats van een generiek lijstje teruggeeft.
+En daarom heb ik de meest bewezen frameworks die ik ook zelf al jarenlang gebruik (o.a. FORCES framwework, Blue Ocean, 7 powers, The Mom Test, jobs to be done) vastgelegd op een manier die AI en jou begrijpt. Nederlandstalig, met Nederlandse context. Het resultaat: een AI-assistent die doorvraagt in plaats van een generiek lijstje teruggeeft.
 
 <!-- HERO IMAGE: plaats hier je visual, bijv. hero-image.png -->
 <!-- ![NL Product Skills](.docs/images/hero.png) -->
@@ -23,17 +23,17 @@ Elke skill wordt nog individueel verbeterd in komende updates.
 
 ## Over mij
 
-Stefan Wesemann. 10+ jaar productervaring bij onder andere Coolblue, Essent en Postcodeloterij. PSPO III gecertificeerd, MIT "Designing and Building AI Products", Product Faculty "AI Product Strategy". Ik gebruik AI dagelijks in mijn werk en deel wat ik leer.
+Stefan Wesemann. 10+ jaar productervaring bij onder andere Coolblue, Essent en Postcodeloterij. PSPO III gecertificeerd, MIT "Designing and Building AI Products", Product Faculty "AI Product Strategy" & "AI Product Management". 
 
-[LinkedIn](https://linkedin.com/in/stefanwesemann) · [Afkijken (Substack)](https://afkijken.substack.com)
+[LinkedIn](https://linkedin.com/in/stefanwesemann) · [en|en (Substack)](https://enenai.substack.com)
 
 ## Wat dit anders maakt
 
 De meeste AI-skills geven je een snel antwoord. Je stelt een vraag, je krijgt een lijstje. Klaar.
 
-Deze skills doen dat niet. Ze stellen eerst vragen. Over jouw situatie, jouw klant, jouw markt. Pas als er genoeg context is, komt het resultaat. Het duurt langer. Het resultaat is beter.
+Deze skills doen dat niet. Ze stellen eerst vragen. Over jouw situatie, jouw klant, jouw markt. Pas als er genoeg context is, komt het resultaat. Iets meer moeite. Beter resultaat.
 
-Een voorbeeld. Je vraagt de klantinterview skill om een interviewscript. In plaats van een standaardlijstje krijg je eerst vragen: wie is je doelgroep, in welke fase zit je, wat heb je al gehoord in eerdere gesprekken? Op basis daarvan krijg je een script met doorvraagtechnieken op basis van The Mom Test en FORCES. Zodat je de juiste vragen stelt in plaats van de vragen waarvan je hoopt dat het antwoord ja is.
+Een voorbeeld. Je vraagt de klantinterview skill om een interviewscript. In plaats van een standaardlijstje krijg je eerst vragen: wie is je doelgroep, in welke fase zit je, wat heb je al gehoord in eerdere gesprekken? Op basis daarvan krijg je een script met doorvraagtechnieken op basis van The Mom Test en het FORCES framework. Zodat je de juiste vragen stelt in plaats van de vragen waarvan je hoopt dat het antwoord ja is.
 
 Dat is het verschil. Proces over inhoud. De inhoud wordt beter omdat het proces beter is.
 
