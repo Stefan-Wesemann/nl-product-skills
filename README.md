@@ -1,32 +1,65 @@
 # NL Product Skills
 
-Ik vroeg AI om een productstrategie en kreeg een generiek lijstje. Vijf bullets, klonk slim, kon ik niks mee. Toen nog een keer, iets anders geformuleerd. Weer een lijstje. Zelfde niveau. Alsof je een stagiair vraagt om een strategisch plan en die begint met Googlen.
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
+[![Skills](https://img.shields.io/badge/skills-35-orange.svg)](#wat-zit-erin)
+[![Nederlands](https://img.shields.io/badge/taal-Nederlands-red.svg)](#)
 
-Het probleem: AI is getraind op gemiddelden. En gemiddeld productwerk is slecht productwerk.
+35 Nederlandstalige skills voor product management.
 
-Dus ik heb de frameworks die ik in de praktijk gebruik, de dingen waar ik mee werk bij klanten, gedocumenteerd op een manier die AI begrijpt. Het resultaat: 35 Nederlandstalige skills voor Claude die niet direct antwoord geven, maar eerst doorvragen. Over jouw situatie, jouw klanten, jouw markt.
+Een skill is een pakketje instructies dat ingeladen wordt wanneer je het aanroept. Met een skill maak je van je generieke AI een expert, zonder dat je daar zelf veel moeite voor hoeft te doen.
 
-Proces over inhoud. En de inhoud wordt beter omdat het proces beter is.
-
-
-## Hoe het werkt
-
-Stel je vraagt om een klantinterview-script. Normaal krijg je tien generieke vragen die je voor elk bedrijf kunt gebruiken. Met deze skills krijg je eerst vragen terug. Voor welke doelgroep is dit? In welke fase zit je? Wat weet je al van eerdere gesprekken?
-
-Dan pas komt het script. Met vraagtechnieken uit The Mom Test en het FORCES framework. Geen template, maar iets dat past bij waar jij nu staat.
-
-Wat is een skill? Een markdown-bestand met instructies. Je geeft het aan Claude en Claude weet daardoor welke vragen te stellen en welke frameworks toe te passen. Denk aan een briefing die je een goede collega zou geven voordat die aan de slag gaat. Alleen dan veel gedetailleerder dan je zelf zou uitschrijven.
+Mijn skills bevatten instructies op basis van wat mij betreft de beste producttheorie. Denk aan Jobs to Be Done, WSJF, FORCES, Blue Ocean, Seven Powers, The Mom Test en meer.
 
 Skills werken onafhankelijk. Je hoeft er geen 35 te installeren om er één te gebruiken.
 
-**Tip:** Een skill wordt sterker als je ook relevante documenten toevoegt aan je gesprek. Je onderzoeksnotities, je concurrentie-analyse, je brief. Hoe meer context Claude heeft, hoe gerichter de vragen en hoe beter de output. De combinatie van een skill met jouw eigen documenten is waar de echte waarde zit.
+**Tip:** Een skill wordt sterker als je ook relevante documenten toevoegt aan je gesprek. Hoe meer context Claude heeft, hoe gerichter de vragen en hoe beter de output zal zijn. De combinatie van een skill met jouw eigen documenten en jouw input op de vragen zorgt voor de beste resultaten.
 
 
-## Zie het in actie
+## Aan de slag
 
-<!-- TODO: screenshots/visual toevoegen -->
+### Stap 1. Download een skill van GitHub
 
-Hier zie je hoe de klantinterview-skill werkt. In plaats van direct een script te genereren, stelt de skill eerst vragen over je situatie. Pas als de context er is, komt de output.
+Ga naar de [`skills/`](skills/) map in deze repo. Open de map van de skill die je wilt gebruiken, bijvoorbeeld [`klantinterview`](skills/klantinterview/). Klik op `SKILL.md`. Klik rechtsboven op het download-icoon (of op **Raw** en dan opslaan met Ctrl+S / Cmd+S).
+
+<!-- TODO: screenshot van GitHub navigatie: repo → skills/ map → SKILL.md → download-icoon -->
+![Skills downloaden van GitHub](assets/github-download.png)
+
+### Stap 2. Upload de skill in Claude
+
+Open Claude desktop en ga naar **Cowork**. Klik op **Customize** in de linkerzijbalk, dan op **Skills**, dan op het **+** icoon. Kies **Upload a skill** en sleep het bestand erin.
+
+<!-- TODO: screenshot van Cowork: Customize → Skills → + → Upload a skill -->
+![Skill uploaden in Claude Cowork](assets/cowork-upload.png)
+
+### Stap 3. Gebruik de skill
+
+Start een nieuw gesprek en typ `/`. De skill verschijnt in de lijst. Klik erop en je bent aan het werk.
+
+<!-- TODO: screenshot van het / menu met de skill zichtbaar of de eerste vragen -->
+![Skill activeren in een gesprek](assets/skill-activeren.png)
+
+Wil je het eerst uitproberen met één? Begin met [`klantinterview`](skills/klantinterview/SKILL.md). Die is het meest tastbaar.
+
+> Je hebt een betaald Claude-account nodig (Pro, Team of Enterprise) en de [Claude desktop app](https://claude.ai/download).
+
+<details>
+<summary>Via Claude Code</summary>
+
+Als je Claude Code gebruikt, werkt het via het plugin-systeem:
+
+```
+/plugin marketplace add Stefan-Wesemann/nl-product-skills
+```
+
+Daarna kun je browsen via `/plugin` (ga naar het **Discover** tabblad) of direct installeren:
+
+```
+/plugin install nl-product-skills@nl-product-skills
+```
+
+> Deze route is nog in ontwikkeling. Werkt het niet? Clone de repo en kopieer de `skills/` map naar je project.
+
+</details>
 
 
 ## Wat zit erin
@@ -110,47 +143,6 @@ Hier zie je hoe de klantinterview-skill werkt. In plaats van direct een script t
 </details>
 
 
-## Aan de slag
-
-Er zijn twee manieren om skills te gebruiken.
-
-### Via Claude desktop
-
-Je hebt een betaald Claude-account nodig en de desktop app.
-
-<!-- TODO: screenshot install-stap1.png toevoegen -->
-
-Open Claude desktop en ga naar **Cowork**. Klik op **Customize** in de linkerzijbalk, dan op **Skills**. Klik op het **+** icoon en kies **Upload a skill**.
-
-<!-- TODO: screenshot install-stap2.png toevoegen -->
-
-Sleep het `SKILL.md` bestand van de skill die je wilt gebruiken naar het venster. Klaar.
-
-Start een nieuw gesprek en typ `/`. Als de upload goed is gegaan zie je de skill in de lijst staan. Klik erop en je bent aan het werk.
-
-Je kunt meerdere skills uploaden. Ze verschijnen allemaal als je `/` typt.
-
-Wil je het eerst uitproberen met één? Begin met `klantinterview`. Die is het meest tastbaar.
-
-**Tip:** Voeg ook relevante documenten toe aan je gesprek (je brief, onderzoeksnotities, concurrentie-info). De skill stelt betere vragen als Claude meer context heeft over jouw situatie.
-
-### Via Claude Code
-
-Als je Claude Code gebruikt, werkt het via het plugin-systeem:
-
-```
-/plugin marketplace add Stefan-Wesemann/nl-product-skills
-```
-
-Daarna kun je browsen via `/plugin` (ga naar het **Discover** tabblad) of direct installeren:
-
-```
-/plugin install nl-product-skills@nl-product-skills
-```
-
-> Deze route is nog in ontwikkeling. Werkt het niet? Clone de repo en kopieer de `skills/` map naar je project.
-
-
 ## Waar beginnen
 
 Kijk, dat hangt af van waar je nu staat.
@@ -177,16 +169,11 @@ Start met `doelgroepkeuze-primair` om segmenten te scoren op pijn, betalingsbere
 `pre-mortem` onderscheidt echte risico's van overschatte en onuitgesproken.
 
 
-## Frameworks en bronnen
-
-Deze skills bouwen op bewezen methodes, geen zelfverzonnen frameworks: FORCES Framework (Product Faculty), Seven Powers (Hamilton Helmer), Blue Ocean Strategy (Kim & Mauborgne), The Mom Test (Rob Fitzpatrick), Jobs to Be Done (Clayton Christensen), StoryBrand (Donald Miller), Contagious STEPPS (Jonah Berger), Business Model Generation (Osterwalder), Running Lean (Ash Maurya), Continuous Discovery Habits (Teresa Torres), Measure What Matters (John Doerr), Never Split the Difference (Chris Voss), AI Product Design (MIT xPRO), Practical Product Management (Lukassen & Schuurman).
-
-
 ## Over mij
 
 Ik ben Stefan Wesemann. Ik doe aan product, al meer dan tien jaar. Coolblue, Postcodeloterij, Essent, trainingen, consultancy.
 
-Ik bouw deze skills omdat ik ze zelf nodig had. AI gaf me generieke antwoorden op productvragen en daar kon ik niks mee. Dus ik heb de frameworks die ik dagelijks gebruik opgeschreven op een manier die AI begrijpt. Het resultaat: een assistent die doorvraagt in plaats van aanneemt.
+Ik bouw deze skills omdat ik ze zelf nodig had. Ik vond het vaak maar een gedoe, heen en weer chatten. Zelf steeds frameworks aanraden die ik graag gebruik. Dus ik heb de frameworks die ik regelmatig gebruik opgeschreven op een manier die AI begrijpt. En uiteraard mag iedereen ze gebruiken.
 
 [LinkedIn](https://linkedin.com/in/stefanwesemann) · [Substack](https://enenai.substack.com)
 
