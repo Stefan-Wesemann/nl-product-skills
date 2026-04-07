@@ -4,15 +4,17 @@
 [![Skills](https://img.shields.io/badge/skills-35-orange.svg)](#wat-zit-erin)
 [![Nederlands](https://img.shields.io/badge/taal-Nederlands-red.svg)](#)
 
-35 Nederlandstalige skills voor product management.
+35 Nederlandstalige skills voor product management. 
 
-Een skill is een pakketje instructies dat ingeladen wordt wanneer je het aanroept. Met een skill maak je van je generieke AI een expert, zonder dat je daar zelf veel moeite voor hoeft te doen.
+Een skill is een pakketje instructies dat ingeladen wordt wanneer je het met Claude of een andere AI aanroept. Met een skill maak je van generieke AI assistent, een AI-expert, zonder dat je daar zelf veel moeite voor hoeft te doen. 
 
-Mijn skills bevatten instructies op basis van wat mij betreft de beste producttheorie. Denk aan Jobs to Be Done, WSJF, FORCES, Blue Ocean, Seven Powers, The Mom Test en meer.
+Die moeite heb ik al voor je gedaan.
 
-Skills werken onafhankelijk. Je hoeft er geen 35 te installeren om er één te gebruiken.
+Mijn skills bevatten instructies op basis van wat mij betreft de beste producttheorieën. Denk aan frameworks zoals Jobs to Be Done, WSJF, FORCES, Blue Ocean, Seven Powers, The Mom Test en meer.
 
-**Tip:** Een skill wordt sterker als je ook relevante documenten toevoegt aan je gesprek. Hoe meer context Claude heeft, hoe gerichter de vragen en hoe beter de output zal zijn. De combinatie van een skill met jouw eigen documenten en jouw input op de vragen zorgt voor de beste resultaten.
+Skills werken onafhankelijk. Je hoeft er geen 35 te installeren om er één te gebruiken. Allemaal downloaden en proberen kan natuurlijk wel altijd.
+
+**Tip:** Een skill wordt vele malen beter wanneer je ook relevante documenten toevoegt aan je gesprek. Hoe meer context Claude heeft, hoe gerichter de vragen en hoe beter de output zal zijn. De combinatie van een skill met jouw relevante context en jouw input op de vragen zorgt voor de beste resultaten.
 
 
 ## Aan de slag
@@ -23,25 +25,24 @@ Ga naar de [`skills/`](skills/) map in deze repo. Open de map van de skill die j
 
 <img width="1009" height="554" alt="Scherm­afbeelding 2026-04-07 om 22 38 56" src="https://github.com/user-attachments/assets/2d1d8e1f-f2a5-49ba-85e2-b614ae21e071" />
 
-![Skills downloaden van GitHub](assets/github-download.png)
-
 ### Stap 2. Upload de skill in Claude
 
 Open Claude desktop en ga naar **Cowork**. Klik op **Customize** in de linkerzijbalk, dan op **Skills**, dan op het **+** icoon. Kies **Upload a skill** en sleep het bestand erin.
+<img width="1903" height="335" alt="Scherm­afbeelding 2026-04-01 om 11 03 01" src="https://github.com/user-attachments/assets/684d1f81-5078-4600-9924-39273b554f64" />
 
-<!-- TODO: screenshot van Cowork: Customize → Skills → + → Upload a skill -->
-![Skill uploaden in Claude Cowork](assets/cowork-upload.png)
+<img width="680" height="477" alt="Scherm­afbeelding 2026-04-01 om 11 03 25" src="https://github.com/user-attachments/assets/a0bec84b-0479-46dd-8ef2-06b14ae72d3c" />
+
 
 ### Stap 3. Gebruik de skill
 
 Start een nieuw gesprek en typ `/`. De skill verschijnt in de lijst. Klik erop en je bent aan het werk.
 
-<!-- TODO: screenshot van het / menu met de skill zichtbaar of de eerste vragen -->
-![Skill activeren in een gesprek](assets/skill-activeren.png)
+<img width="803" height="382" alt="Scherm­afbeelding 2026-04-07 om 22 51 37" src="https://github.com/user-attachments/assets/77c9d542-a116-440d-93a1-3b098d98bd30" />
+
 
 Wil je het eerst uitproberen met één? Begin met [`klantinterview`](skills/klantinterview/SKILL.md). Die is het meest tastbaar.
 
-> Je hebt een betaald Claude-account nodig (Pro, Team of Enterprise) en de [Claude desktop app](https://claude.ai/download).
+> Je hebt een betaald Claude-account nodig (Pro, Team of Enterprise) 
 
 <details>
 <summary>Via Claude Code</summary>
@@ -146,7 +147,7 @@ Daarna kun je browsen via `/plugin` (ga naar het **Discover** tabblad) of direct
 
 ## Waar beginnen
 
-Kijk, dat hangt af van waar je nu staat.
+Kijk, dat hangt natuurlijk af van waar je nu staat en wat je daarbij nodig denkt te hebben.
 
 **Je hebt een nieuw idee en wilt weten of het klopt.**
 Begin met `aannames-bedenken` om te zien welke aannames eronder zitten. Daarna `experiment-ontwerp` om de riskantste te testen.
