@@ -49,9 +49,9 @@ Start een nieuw gesprek en typ `/`. De skill verschijnt in de lijst. Klik erop e
 <img width="803" height="382" alt="Scherm­afbeelding 2026-04-07 om 22 51 37" src="https://github.com/user-attachments/assets/77c9d542-a116-440d-93a1-3b098d98bd30" />
 
 
-Wil je het eerst uitproberen met één? Begin met [`klantinterview`](skills/klantinterview/SKILL.md). Die is het meest tastbaar.
+Wil je het eerst uitproberen met één? Snap ik. Hier download je klantinterview op basis van de mom test. [`klantinterview`](skills/klantinterview/SKILL.md). Een skill die je helpt bij écht goede interviewvragen om hiermee je plannetje te valideren.
 
-> Je hebt een betaald Claude-account nodig (Pro, Team of Enterprise) 
+> LET OP: Je hebt een betaald Claude-account nodig (Pro, Team of Enterprise) om van skills in Claude gebruik te kunnen maken.
 
 <details>
 <summary>Via Claude Code</summary>
