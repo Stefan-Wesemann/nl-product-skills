@@ -21,7 +21,8 @@ Skills werken onafhankelijk. Je hoeft er geen 35 te installeren om er één te g
 
 Ga naar de [`skills/`](skills/) map in deze repo. Open de map van de skill die je wilt gebruiken, bijvoorbeeld [`klantinterview`](skills/klantinterview/). Klik op `SKILL.md`. Klik rechtsboven op het download-icoon (of op **Raw** en dan opslaan met Ctrl+S / Cmd+S).
 
-<!-- TODO: screenshot van GitHub navigatie: repo → skills/ map → SKILL.md → download-icoon -->
+<img width="1009" height="554" alt="Scherm­afbeelding 2026-04-07 om 22 38 56" src="https://github.com/user-attachments/assets/2d1d8e1f-f2a5-49ba-85e2-b614ae21e071" />
+
 ![Skills downloaden van GitHub](assets/github-download.png)
 
 ### Stap 2. Upload de skill in Claude
