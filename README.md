@@ -35,9 +35,11 @@ Open Claude desktop en ga naar **Cowork**. Klik op **Customize** in de linkerzij
 
 <img width="1903" height="335" alt="Scherm­afbeelding 2026-04-01 om 11 03 01" src="https://github.com/user-attachments/assets/684d1f81-5078-4600-9924-39273b554f64" />
 
+
 Sleep hier je gedownloade skill .md file naartoe en je skill is onderdeel van je Claude
 
-<img width="680" height="477" alt="Scherm­afbeelding 2026-04-01 om 11 03 25" src="https://github.com/user-attachments/assets/a0bec84b-0479-46dd-8ef2-06b14ae72d3c" />
+
+<img width="400" height="280" alt="Scherm­afbeelding 2026-04-01 om 11 03 25" src="https://github.com/user-attachments/assets/a0bec84b-0479-46dd-8ef2-06b14ae72d3c" />
 
 
 ### Stap 3. Gebruik de skill
