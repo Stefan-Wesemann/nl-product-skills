@@ -36,9 +36,7 @@ Open Claude desktop en ga naar **Cowork**. Klik op **Customize** in de linkerzij
 <img width="1903" height="335" alt="Scherm­afbeelding 2026-04-01 om 11 03 01" src="https://github.com/user-attachments/assets/684d1f81-5078-4600-9924-39273b554f64" />
 
 
-
 Sleep hier je gedownloade skill .md file naartoe en je skill is onderdeel van je Claude:
-
 
 
 <img width="400" height="280" alt="Scherm­afbeelding 2026-04-01 om 11 03 25" src="https://github.com/user-attachments/assets/a0bec84b-0479-46dd-8ef2-06b14ae72d3c" />
@@ -51,7 +49,8 @@ Start een nieuw gesprek en typ `/`. De skill verschijnt in de lijst. Klik erop e
 <img width="803" height="382" alt="Scherm­afbeelding 2026-04-07 om 22 51 37" src="https://github.com/user-attachments/assets/77c9d542-a116-440d-93a1-3b098d98bd30" />
 
 
-Wil je het eerst uitproberen met één? Snap ik. Hier download je klantinterview op basis van de mom test. [`klantinterview`](skills/klantinterview/SKILL.md). Een skill die je helpt bij écht goede interviewvragen om hiermee je plannetje te valideren.
+Wil je het eerst uitproberen met één? Snap ik. 
+Hier download je klantinterview op basis van de mom test: [`klantinterview`](skills/klantinterview/SKILL.md). Een skill die je helpt bij écht goede interviewvragen om hiermee je plannetje te valideren.
 
 > LET OP: Je hebt een betaald Claude-account nodig (Pro, Team of Enterprise) om van skills in Claude gebruik te kunnen maken.
 
@@ -183,6 +182,8 @@ Start met `doelgroepkeuze-primair` om segmenten te scoren op pijn, betalingsbere
 
 
 ## Over mij
+
+# Hoi, ik ben Stefan.
 
 Ik doe aan product. Al meer dan tien jaar. Consultancy, trainingen, Coolblue, Postcodeloterij, Essent. Ik kon nooit veel. Met AI kan ik alles.
 
