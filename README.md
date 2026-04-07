@@ -69,7 +69,7 @@ Daarna kun je browsen via `/plugin` (ga naar het **Discover** tabblad) of direct
 /plugin install nl-product-skills@nl-product-skills
 ```
 
-> Deze route is nog in ontwikkeling. Werkt het niet? Clone de repo en kopieer de `skills/` map naar je project.
+> Werkt het op de een of andere manier niet? Clone de repo en kopieer de `skills/` map naar je project.
 
 </details>
 
