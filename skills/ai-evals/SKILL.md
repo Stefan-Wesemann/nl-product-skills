@@ -1,5 +1,5 @@
 ---
-name: AI Evaluatiecriteria definiëren
+name: AI Evaluatiecriteria definieren
 description: Definieer evaluatiecriteria voor AI-output vanuit business-perspectief. Van criteria tot meetplan en monitoring.
 triggers:
   - ai evals
