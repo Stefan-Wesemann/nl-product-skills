@@ -23,12 +23,19 @@ Skills werken onafhankelijk. Je hoeft er geen 35 te installeren om er één te g
 
 Ga naar de [`skills/`](skills/) map in deze repo. Open de map van de skill die je wilt gebruiken, bijvoorbeeld [`klantinterview`](skills/klantinterview/). Klik op `SKILL.md`. Klik rechtsboven op het download-icoon (of op **Raw** en dan opslaan met Ctrl+S / Cmd+S).
 
-<img width="1009" height="554" alt="Scherm­afbeelding 2026-04-07 om 22 38 56" src="https://github.com/user-attachments/assets/2d1d8e1f-f2a5-49ba-85e2-b614ae21e071" />
+
+<img width="750" height="300" alt="Scherm­afbeelding 2026-04-07 om 22 38 56" src="https://github.com/user-attachments/assets/2d1d8e1f-f2a5-49ba-85e2-b614ae21e071" />
+
+
 
 ### Stap 2. Upload de skill in Claude
 
 Open Claude desktop en ga naar **Cowork**. Klik op **Customize** in de linkerzijbalk, dan op **Skills**, dan op het **+** icoon. Kies **Upload a skill** en sleep het bestand erin.
+
+
 <img width="1903" height="335" alt="Scherm­afbeelding 2026-04-01 om 11 03 01" src="https://github.com/user-attachments/assets/684d1f81-5078-4600-9924-39273b554f64" />
+
+Sleep hier je gedownloade skill .md file naartoe en je skill is onderdeel van je Claude
 
 <img width="680" height="477" alt="Scherm­afbeelding 2026-04-01 om 11 03 25" src="https://github.com/user-attachments/assets/a0bec84b-0479-46dd-8ef2-06b14ae72d3c" />
 
@@ -173,10 +180,11 @@ Start met `doelgroepkeuze-primair` om segmenten te scoren op pijn, betalingsbere
 
 ## Over mij
 
-Ik ben Stefan Wesemann. Ik doe aan product, al meer dan tien jaar. Coolblue, Postcodeloterij, Essent, trainingen, consultancy.
+Ik doe aan product. Al meer dan tien jaar. Consultancy, trainingen, Coolblue, Postcodeloterij, Essent. Ik kon nooit veel. Met AI kan ik alles.
 
-Ik bouw deze skills omdat ik ze zelf nodig had. Ik vond het vaak maar een gedoe, heen en weer chatten. Zelf steeds frameworks aanraden die ik graag gebruik. Dus ik heb de frameworks die ik regelmatig gebruik opgeschreven op een manier die AI begrijpt. En uiteraard mag iedereen ze gebruiken.
+Ik bouw deze skills omdat ik ze zelf nodig heb. En uiteraard mag iedereen ze gebruiken. 
 
+Ik ben dol op feedback dus voel je vrij mij te berichten.
 [LinkedIn](https://linkedin.com/in/stefanwesemann) · [Substack](https://enenai.substack.com)
 
 
