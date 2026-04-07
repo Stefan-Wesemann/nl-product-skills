@@ -26,7 +26,16 @@ triggers:
 
 ## Instructies
 
-### Fase 0: Onderzoeksvragen (STEL ALTIJD EERST)
+### Fase 0: Context ophalen
+
+**Stap 1 — Check wat er al is**
+Scan uploads, gedeelde mappen en workspace op relevante bestanden (eerdere user stories, persona-documenten, feature specs). Lees ze door.
+
+**Stap 2 — Slimme vragen stellen**
+- **Wel context gevonden →** Bevestig kort wat je ziet ("Ik zie [X], klopt dat?"). Stel alleen vragen over wat je nog mist.
+- **Geen context →** Stel onderstaande vragen.
+
+---
 
 1. **Context**: Voor welke feature of epic schrijven we stories?
 2. **Persona**: Voor welke persona is dit? (Verwijs naar je persona's als je die hebt)

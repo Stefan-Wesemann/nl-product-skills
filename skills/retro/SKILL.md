@@ -33,7 +33,16 @@ triggers:
 
 ## Instructies
 
-### Fase 0: Onderzoeksvragen (STEL ALTIJD EERST)
+### Fase 0: Context ophalen
+
+**Stap 1 — Check wat er al is**
+Scan uploads, gedeelde mappen en workspace op relevante bestanden (eerdere retro-notities, actiepunten vorige retro, teamfeedback, data). Lees ze door.
+
+**Stap 2 — Slimme vragen stellen**
+- **Wel context gevonden →** Bevestig kort wat je ziet ("Ik zie dat jullie vorige retro 3 acties hebben afgesproken, klopt dat?"). Stel alleen vragen over wat je nog mist.
+- **Geen context →** Stel onderstaande vragen.
+
+---
 
 1. **Context**: Wat evalueren we? Een sprint, een kwartaal, een project, een lancering?
 2. **Teamsamenstelling**: Wie doet mee? Hoeveel mensen? Kennen ze elkaar goed?

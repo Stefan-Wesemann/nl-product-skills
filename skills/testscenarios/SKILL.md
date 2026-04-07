@@ -28,7 +28,14 @@ triggers:
 
 ## Instructies
 
-### Fase 0: Onderzoeksvragen (STEL ALTIJD EERST)
+### Fase 0: Context ophalen
+
+**Stap 1 — Check wat er al is**
+Scan uploads, gedeelde mappen en workspace op relevante bestanden (eerdere outputs, research, data). Lees ze door.
+
+**Stap 2 — Slimme vragen stellen**
+- **Wel context gevonden →** Bevestig kort wat je ziet ("Ik zie [X], klopt dat?"). Stel alleen vragen over wat je nog mist.
+- **Geen context →** Stel onderstaande vragen.
 
 1. **De feature**: Wat is de feature of user story waar we scenario's voor schrijven?
 2. **Acceptance criteria**: Zijn er al acceptance criteria gedefinieerd? Zo ja, welke?

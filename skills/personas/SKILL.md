@@ -33,7 +33,14 @@ triggers:
 
 ## Instructies
 
-### Fase 0: Onderzoeksvragen (STEL ALTIJD EERST)
+### Fase 0: Context ophalen
+
+**Stap 1 — Check wat er al is**
+Scan uploads, gedeelde mappen en workspace op relevante bestanden (eerdere outputs, research, data). Lees ze door.
+
+**Stap 2 — Slimme vragen stellen**
+- **Wel context gevonden →** Bevestig kort wat je ziet ("Ik zie [X], klopt dat?"). Stel alleen vragen over wat je nog mist.
+- **Geen context →** Stel onderstaande vragen.
 
 1. **Beschikbare data**: Heb je klantinterviews gedaan? Hoeveel? Met wie?
 2. **Andere bronnen**: Heb je support tickets, NPS-data, analytics, of feedback die we kunnen gebruiken?

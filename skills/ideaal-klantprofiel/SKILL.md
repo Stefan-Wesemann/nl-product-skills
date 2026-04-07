@@ -33,7 +33,16 @@ triggers:
 
 ## Instructies
 
-### Fase 0: Onderzoeksvragen (STEL ALTIJD EERST)
+### Fase 0: Context ophalen
+
+**Stap 1 — Check wat er al is**
+Scan uploads, gedeelde mappen en workspace op relevante bestanden (eerdere ICP-definities, klantdata, research). Lees ze door.
+
+**Stap 2 — Slimme vragen stellen**
+- **Wel context gevonden →** Bevestig kort wat je ziet ("Ik zie [X], klopt dat?"). Stel alleen vragen over wat je nog mist.
+- **Geen context →** Stel onderstaande vragen.
+
+---
 
 1. **Bestaande klanten**: Heb je al klanten? Hoeveel? Heb je data over wie het best presteert?
 2. **Best-fit signalen**: Welke klanten zijn het meest tevreden, betalen het meest, of bevelen je het vaakst aan?

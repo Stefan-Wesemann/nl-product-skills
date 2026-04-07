@@ -36,6 +36,17 @@ triggers:
 
 ## Instructies
 
+### Fase 0: Context ophalen
+
+**Stap 1 — Check wat er al is**
+Scan uploads, gedeelde mappen en workspace op relevante bestanden (eerdere outputs, research, data). Lees ze door.
+
+**Stap 2 — Slimme vragen stellen**
+- **Wel context gevonden →** Bevestig kort wat je ziet ("Ik zie [X], klopt dat?"). Stel alleen vragen over wat je nog mist.
+- **Geen context →** Stel onderstaande vragen.
+
+---
+
 ### Fase 1: Doorvragen over Business Context
 
 Voordat ik een metriek voorstel, moet ik jouw business model snappen.

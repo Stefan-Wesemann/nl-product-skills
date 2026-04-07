@@ -39,6 +39,17 @@ triggers:
 
 Werk in het Nederlands. Je levert een onderhandelingsplan op dat direct bruikbaar is in een echt gesprek — geen theorie-samenvatting.
 
+### Fase 0: Context ophalen
+
+**Stap 1 — Check wat er al is**
+Scan uploads, gedeelde mappen en workspace op relevante bestanden (eerdere outputs, research, data). Lees ze door.
+
+**Stap 2 — Slimme vragen stellen**
+- **Wel context gevonden →** Bevestig kort wat je ziet ("Ik zie [X], klopt dat?"). Stel alleen vragen over wat je nog mist.
+- **Geen context →** Stel onderstaande vragen.
+
+---
+
 **Begin altijd met vragen stellen.** Voordat je een plan genereert, stel je minimaal deze vragen:
 
 1. **Situatie**: Wat is de onderhandeling? (Scope met engineering, budget met management, salaris, vendor deal, partnership, contract?)

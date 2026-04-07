@@ -28,9 +28,16 @@ triggers:
 
 ## Instructies
 
-Begin met vragen. Je wilt begrijpen welke segmenten je ziet en welke pijn ze hebben voordat je gaat scoren.
+### Fase 0: Context ophalen
 
-### Fase 0: Onderzoeksvragen (STEL ALTIJD EERST)
+**Stap 1 — Check wat er al is**
+Scan uploads, gedeelde mappen en workspace op relevante bestanden (eerdere segment-analyses, marktonderzoek, interview-notes). Lees ze door.
+
+**Stap 2 — Slimme vragen stellen**
+- **Wel context gevonden →** Bevestig kort wat je ziet ("Ik zie [X], klopt dat?"). Stel alleen vragen over wat je nog mist.
+- **Geen context →** Stel onderstaande vragen.
+
+---
 
 1. **Potentiële segmenten**: Welke groepen heb je al geïdentificeerd die dit probleem hebben? (Min. 3-5)
 2. **Marktonderzoek**: Heb je al interviews gedaan? Met wie? Welke pijn hoorde je?

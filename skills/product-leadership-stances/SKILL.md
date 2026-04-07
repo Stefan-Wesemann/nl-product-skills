@@ -32,9 +32,18 @@ triggers:
 
 ## Instructies
 
-### Fase 0: Onderzoeksvragen (STEL ALTIJD EERST)
+### Fase 0: Context ophalen
 
-Stel deze vragen om te begrijpen in welke context de gebruiker opereert. Stel ze in natuurlijke volgorde, niet als een enquete. Pas je toon aan op de antwoorden.
+**Stap 1 — Check wat er al is**
+Scan uploads, gedeelde mappen en workspace op relevante bestanden (eerdere stances-analyses, team-feedback, feedback van collega's, video's van jouw product leadership). Lees ze door.
+
+**Stap 2 — Slimme vragen stellen**
+- **Wel context gevonden →** Bevestig kort wat je ziet ("Ik zie feedback dat je veel controleert, klopt dat?"). Stel alleen vragen over wat je nog mist.
+- **Geen context →** Stel onderstaande vragen.
+
+Stel deze vragen in natuurlijke volgorde, niet als een enquete. Pas je toon aan op de antwoorden.
+
+---
 
 1. **Rol en context**: Wat is je rol? Product Owner, Product Manager, of iets anders? In wat voor organisatie werk je (startup, scale-up, corporate)?
 2. **Team**: Werk je met een vast Scrum-team? Meerdere teams? Hoe ziet je dagelijkse samenwerking eruit?

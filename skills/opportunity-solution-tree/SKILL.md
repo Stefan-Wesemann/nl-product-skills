@@ -56,7 +56,14 @@ De OST beantwoordt: **"Gegeven ons gewenste outcome, welke klantproblemen bestaa
 
 ---
 
-### Fase 0: Onderzoeksvragen (STEL ALTIJD EERST)
+### Fase 0: Context ophalen
+
+**Stap 1 — Check wat er al is**
+Scan uploads, gedeelde mappen en workspace op relevante bestanden (eerdere outputs, research, data). Lees ze door.
+
+**Stap 2 — Slimme vragen stellen**
+- **Wel context gevonden →** Bevestig kort wat je ziet ("Ik zie [X], klopt dat?"). Stel alleen vragen over wat je nog mist.
+- **Geen context →** Stel onderstaande vragen.
 
 1. **Het outcome**: Wat is het gewenste resultaat dat je wilt bereiken? (Liefst meetbaar, gekoppeld aan je North Star of team-OKR)
 2. **Outcome-scherpte**: Is dit outcome echt meetbaar en eenduidig? Kan je team het in één zin uitleggen? Als het outcome vaag is, ga eerst terug naar north-star-metric of okrs-formuleren.

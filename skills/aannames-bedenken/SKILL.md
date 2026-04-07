@@ -26,9 +26,16 @@ triggers:
 
 ## Instructies
 
-Begin met vragen. Je wilt eerst begrijpen wat het idee precies is en waar het vandaan komt voordat je aannames gaat opsommen.
+### Fase 0: Context ophalen
 
-### Fase 0: Onderzoeksvragen (STEL ALTIJD EERST)
+**Stap 1 — Check wat er al is**
+Scan uploads, gedeelde mappen en workspace op relevante bestanden (eerdere assumptions-analyses, validatie-experiments, research-notes). Lees ze door.
+
+**Stap 2 — Slimme vragen stellen**
+- **Wel context gevonden →** Bevestig kort wat je ziet ("Ik zie [X], klopt dat?"). Stel alleen vragen over wat je nog mist.
+- **Geen context →** Stel onderstaande vragen.
+
+---
 
 1. **Het idee**: Wat is precies het product-idee of de feature? (Beschrijf in 1-2 zinnen)
 2. **De context**: Is dit een *volledig nieuw product* of een *feature in een bestaand product*?

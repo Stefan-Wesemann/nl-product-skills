@@ -32,7 +32,16 @@ Waarbij Cost of Delay = Business Value + Time Criticality + Risk Reduction / Opp
 
 ## Instructies
 
-### Fase 0: Onderzoeksvragen (STEL ALTIJD EERST)
+### Fase 0: Context ophalen
+
+**Stap 1 — Check wat er al is**
+Scan uploads, gedeelde mappen en workspace op relevante bestanden (backlog-spreadsheets, vorige WSJF-scores, prioriterings-documenten, roadmaps). Lees ze door.
+
+**Stap 2 — Slimme vragen stellen**
+- **Wel context gevonden →** Bevestig kort wat je ziet ("Ik zie een backlog met 25 items, klopt dat?"). Stel alleen vragen over wat je nog mist.
+- **Geen context →** Stel onderstaande vragen.
+
+---
 
 1. **Wat prioriteren we?** Features, epics, initiatieven, bugs? Zijn ze vergelijkbaar in scope?
 2. **Hoeveel items?** Hoeveel staan er op de lijst? (Ideaal: 8-15. Meer dan 20 = eerst groeperen)

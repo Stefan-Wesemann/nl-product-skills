@@ -27,9 +27,20 @@ triggers:
 
 ## Instructies
 
-Begin met vragen. Snap eerst wat je product echt doet en waar het anders kan zijn voordat je frameworks inzet.
+### Fase 0: Context ophalen
+
+**Stap 1 — Check wat er al is**
+Scan uploads, gedeelde mappen en workspace op relevante bestanden (eerdere outputs, research, data). Lees ze door.
+
+**Stap 2 — Slimme vragen stellen**
+- **Wel context gevonden →** Bevestig kort wat je ziet ("Ik zie [X], klopt dat?"). Stel alleen vragen over wat je nog mist.
+- **Geen context →** Stel onderstaande vragen.
+
+---
 
 ### Fase 1: Onderzoeksvragen (stel deze voordat je analyseert)
+
+Begin met vragen. Snap eerst wat je product echt doet en waar het anders kan zijn voordat je frameworks inzet.
 
 1. **Product**: Wat is het kernprobleem dat je opgelost? Wie is je primaire gebruiker, secundaire koper, eventuele influencer?
 

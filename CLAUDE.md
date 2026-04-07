@@ -12,9 +12,11 @@ Dit is een verzameling Nederlandstalige product management skills voor AI-assist
 - Skills zijn zelfstandig bruikbaar — geen onderlinge afhankelijkheden vereist
 - Toon: professioneel, direct, geen wollig taalgebruik
 
-## Kernprincipe
+## Kernprincipes
 
 Skills moeten **diep** gaan. Liever langer, meer vragen stellen, meer doorvragen dan snel en oppervlakkig. Een skill is geen shortcut — het moet kwalitatief waardevol zijn.
+
+Skills zijn **context-first**. Elke skill begint met Fase 0: scan eerst uploads, gedeelde mappen en workspace op relevante bestanden. Lees wat er is. Stel daarna alleen vragen over wat je nog mist. Als er wél context is, bevestig wat je ziet ("Ik zie [X], klopt dat?") — dat voelt als samenwerken. Als er geen context is, stel de volledige vragenlijst.
 
 ## Structuur
 
@@ -35,7 +37,7 @@ Sommige frameworks komen in meerdere skills terug:
 ## Kwaliteitseisen
 
 - Description in frontmatter: max 200 tekens, begint met werkwoord
-- Elke skill begint met vragen stellen — nooit direct output genereren
+- Elke skill begint met Fase 0: context checken, dan adaptief vragen stellen — nooit direct output genereren
 - Duidelijke triggers zodat AI weet wanneer de skill te activeren
 - Concrete voorbeelden, geen abstracte theorie
 - Bronvermeldingen waar relevant
