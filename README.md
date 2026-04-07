@@ -150,7 +150,7 @@ Daarna kun je browsen via `/plugin` (ga naar het **Discover** tabblad) of direct
 | `marketingideeen` | Vijf concrete ideeën, owned/earned/paid, Nederlandse marktcontext |
 | `retro` | Zes formats, auto-selectie op basis van situatie en teamdynamiek |
 | `product-leadership-stances` | Diagnose misunderstood vs preferred stances, shift-advies |
-| `ai-evals` | AI-kwaliteitsmeting en evaluatieframeworks |
+| `ai-evaluatiecriteria-definieren` | AI-kwaliteitsmeting en evaluatieframeworks |
 
 </details>
 
