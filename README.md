@@ -183,7 +183,7 @@ Start met `doelgroepkeuze-primair` om segmenten te scoren op pijn, betalingsbere
 
 ## Over mij
 
-# Hoi, ik ben Stefan.
+### Hoi, ik ben Stefan.
 
 Ik doe aan product. Al meer dan tien jaar. Consultancy, trainingen, Coolblue, Postcodeloterij, Essent. Ik kon nooit veel. Met AI kan ik alles.
 
