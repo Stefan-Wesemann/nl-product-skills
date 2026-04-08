@@ -1,17 +1,17 @@
 # Bijdragen aan NL Product Skills
 
-Leuk dat je wilt bijdragen. Dit project draait om kwalitatieve, Nederlandstalige product management skills. Hieronder staat wat je moet weten.
+Sharing is caring. Tof dat je wilt bijdragen aan het verder verbeteren van deze skills! Dit project draait om kwalitatieve, Nederlandstalige product management skills. Hieronder staat wat je moet weten.
 
-## Wat we zoeken
+## Wat dit beter maakt
 
-- **Verbeteringen** aan bestaande skills: betere vragen, scherpere frameworks, bugfixes
-- **Nieuwe skills** die passen bij product management en nog niet bestaan
+- **Verbeteringen** aan bestaande skills: verbetere inhoud, scherpere vragen, nog relevantere frameworks, bugfixes
+- **Nieuwe skills** die passen bij product management en de set aan Nederlandstalige skills completer maken
 - **Feedback** via issues: wat werkt niet, wat mist, wat kan beter
 
 ## Kwaliteitseisen
 
 ### Taal
-Alles in het Nederlands. Engelse vaktermen mogen als er geen gangbaar Nederlands alternatief is (bijv. "stakeholder", "framework").
+Alles in het Nederlands. Jargon in het Engels is natuurlijk wel goed (bijv. "stakeholder", "framework").
 
 ### Skill structuur
 Elke skill volgt dit format:
@@ -51,7 +51,7 @@ skills/naam-van-skill/
     4. Test je skill handmatig in Claude
     5. Open een PR met een korte beschrijving van wat de skill doet en waarom
 
-    ## Wat we niet zoeken
+    ## Wat ik niet zoek
 
     - Engelse skills (er zijn genoeg Engelstalige alternatieven)
     - Skills zonder onderliggend framework (geen "vraag AI om een lijstje")
