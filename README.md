@@ -6,7 +6,7 @@
 
 35 Nederlandstalige skills voor product management. 
 
-Een skill is een pakketje instructies dat ingeladen wordt wanneer je het met Claude of een andere AI aanroept. Met een skill maak je van generieke AI assistent, een AI-expert, zonder dat je daar zelf veel moeite voor hoeft te doen. 
+Een skill is een pakketje instructies dat ingeladen wordt wanneer je het met Claude of een andere AI aanroept. Zonder skill is AI generiek. Met een skill wordt het een AI-expert, in alles. En het mooie is, dit allemaal zonder dat je daar zelf veel moeite voor hoeft te doen. 
 
 Die moeite heb ik al voor je gedaan.
 
@@ -36,7 +36,7 @@ Open Claude desktop en ga naar **Cowork**. Klik op **Customize** in de linkerzij
 <img width="1903" height="335" alt="Scherm­afbeelding 2026-04-01 om 11 03 01" src="https://github.com/user-attachments/assets/684d1f81-5078-4600-9924-39273b554f64" />
 
 
-Sleep hier je gedownloade skill .md file naartoe en je skill is onderdeel van je Claude:
+Sleep hier je skill .md bestand hierheen. Je skill is vanaf dan onderdeel van je Claude:
 
 
 <img width="400" height="280" alt="Scherm­afbeelding 2026-04-01 om 11 03 25" src="https://github.com/user-attachments/assets/a0bec84b-0479-46dd-8ef2-06b14ae72d3c" />
@@ -108,7 +108,7 @@ Daarna kun je browsen via `/plugin` (ga naar het **Discover** tabblad) of direct
 | `concurrentie-analyse` | Drie concurrenten diep in kaart, moat-analyse, relatieve positie |
 | `prijsstrategie` | Modelkeuze, Van Westendorp, AI-kostenmodel |
 | `product-visie` | Korte, begrijpelijke productvisie die intern richting geeft |
-| `verdienmodel` | Zeven verdienmodellen, evaluatiematrix, validatie-experimenten |
+| `verdienmodel` | 3-5 verdienmodellen, evaluatiematrix, validatie-experimenten |
 | `business-model-canvas` | Osterwalder's negen bouwblokken, samenhang-checks |
 | `lean-canvas` | Ash Maurya's negen blokken, aanname-identificatie |
 
@@ -150,14 +150,14 @@ Daarna kun je browsen via `/plugin` (ga naar het **Discover** tabblad) of direct
 | `marketingideeen` | Vijf concrete ideeën, owned/earned/paid, Nederlandse marktcontext |
 | `retro` | Zes formats, auto-selectie op basis van situatie en teamdynamiek |
 | `product-leadership-stances` | Diagnose misunderstood vs preferred stances, shift-advies |
-| `ai-evaluatiecriteria-definieren` | AI-kwaliteitsmeting en evaluatieframeworks |
+| `ai-evals` | AI-kwaliteitsmeting en evaluatieframeworks |
 
 </details>
 
 
 ## Waar beginnen
 
-Kijk, dat hangt natuurlijk af van waar je nu staat en wat je daarbij nodig denkt te hebben.
+Kijk, dat hangt natuurlijk af van waar je nu staat en wat je daarbij nodig denkt te hebben. Ik geef wat voorbeelden:
 
 **Je hebt een nieuw idee en wilt weten of het klopt.**
 Begin met `aannames-bedenken` om te zien welke aannames eronder zitten. Daarna `experiment-ontwerp` om de riskantste te testen.
@@ -171,7 +171,7 @@ Start met `doelgroepkeuze-primair` om segmenten te scoren op pijn, betalingsbere
 **Je gaat in gesprek met klanten.**
 `klantinterview` zorgt dat je de goede vragen stelt. Onthullend in plaats van sturend.
 
-**Je moet iets opleveren aan engineering.**
+**Een uitgewerkt epic/feature plan.**
 `prd-schrijven` geeft je een structuur met aannames en hypotheses. Geen vage beschrijvingen.
 
 **Je lanceert iets.**
@@ -185,7 +185,7 @@ Start met `doelgroepkeuze-primair` om segmenten te scoren op pijn, betalingsbere
 
 ### Hoi, ik ben Stefan.
 
-Ik doe aan product. Al meer dan tien jaar. Consultancy, trainingen, Coolblue, Postcodeloterij, Essent. Ik kon nooit veel. Met AI kan ik alles.
+Ik doe aan product. Al meer dan tien jaar. Consultancy, trainingen, Coolblue, Postcodeloterij, Essent. Ik kon veel niet. Met AI kan ik alles.
 
 Ik bouw deze skills omdat ik ze zelf nodig heb. En uiteraard mag iedereen ze gebruiken. 
 
