@@ -4,7 +4,7 @@
 [![Skills](https://img.shields.io/badge/skills-35-orange.svg)](#wat-zit-erin)
 [![Nederlands](https://img.shields.io/badge/taal-Nederlands-red.svg)](#)
 
-35 Nederlandstalige skills voor product management. 
+35 Nederlandstalige Product Management skills. 
 
 Een skill is een pakketje instructies dat ingeladen wordt wanneer je het met Claude of een andere AI aanroept. Zonder skill is AI generiek. Met een skill wordt het een AI-expert, in alles. En het mooie is, dit allemaal zonder dat je daar zelf veel moeite voor hoeft te doen. 
 
