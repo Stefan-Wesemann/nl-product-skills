@@ -51,7 +51,7 @@ Start een nieuw gesprek en typ `/`. De skill verschijnt in de lijst. Klik erop e
 Wil je het eerst uitproberen met één? Snap ik. 
 Hier download je klantinterview op basis van de mom test: [`klantinterview`](skills/klantinterview/SKILL.md). Een skill die je helpt bij écht goede interviewvragen om hiermee je plannetje te valideren.
 
-> LET OP: Je hebt een betaald Claude-account nodig (Pro, Team of Enterprise) om van skills in Claude gebruik te kunnen maken.
+> LET OP: Je hebt een betaald Claude-account nodig. Nieuw met Claude? Start hier (https://substack.com/home/post/p-195004646).
 
 <details>
 <summary>Via Claude Code</summary>
