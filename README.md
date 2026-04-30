@@ -6,11 +6,14 @@
 
 35 Nederlandstalige Product Management skills. 
 
-Een skill is een pakketje instructies dat ingeladen wordt wanneer je het met Claude of een andere AI aanroept. Zonder skill is AI generiek. Met een skill wordt het een AI-expert, in alles. En het mooie is, dit allemaal zonder dat je daar zelf veel moeite voor hoeft te doen. 
+Een skill is een pakketje instructies dat ingeladen wordt wanneer je het met Claude of een andere AI aanroept. Zonder skill is AI generiek. Met een skill wordt het een AI-expert, in alles. En het mooie is, je maakt van je AI een product expert zonder dat je daar zelf veel moeite voor hoeft te doen.
 
 Die moeite heb ik al voor je gedaan.
 
 Mijn skills bevatten instructies op basis van wat mij betreft de beste producttheorieën. Denk aan frameworks zoals Jobs to Be Done, WSJF, FORCES, Blue Ocean, Seven Powers, The Mom Test en meer.
+
+<img width="2912" height="2096" alt="35 Skills" src="https://github.com/user-attachments/assets/70d02803-79e0-42aa-ba79-d9ca2a20f0dc" />
+
 
 Skills werken onafhankelijk. Je hoeft er geen 35 te installeren om er één te gebruiken. Allemaal downloaden en proberen kan natuurlijk wel altijd.
 
