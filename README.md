@@ -16,11 +16,6 @@ Skills werken onafhankelijk. Je hoeft er geen 35 te installeren om er één te g
 
 **Tip:** Een skill wordt vele malen beter wanneer je ook relevante documenten toevoegt aan je gesprek. Hoe meer context Claude heeft, hoe gerichter de vragen en hoe beter de output zal zijn. De combinatie van een skill met jouw relevante context en jouw input op de vragen zorgt voor de beste resultaten.
 
-Skills uitgelegd door Antropic zelf
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CEvIs9y1uog?si=Bkg541xQ7lQ6PA5N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
 ## Aan de slag
 
 ### Stap 1. Download een skill van GitHub
